@@ -7,3 +7,5 @@ app = wb.app
 macro_order = app.macro('순번')
 
 macro_order()
+
+## 첫번째 브랜치에 대한 수정 작업을 진행중...
