@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0932368-85f1-4d08-b090-fdb66ffdbb05" name="변경" comment="첫 번째 커밋" />
+    <list default="true" id="a0932368-85f1-4d08-b090-fdb66ffdbb05" name="변경" comment="first 내용에 대한 수정 작업 진행중" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/second" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -46,7 +54,35 @@
       <option name="project" value="LOCAL" />
       <updated>1664242405162</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="첫 번째 커밋">
+      <created>1664242544326</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664242544326</updated>
+    </task>
+    <task id="LOCAL-00003" summary="첫 번째 커밋 - 수정">
+      <created>1664242582582</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664242582582</updated>
+    </task>
+    <task id="LOCAL-00004" summary="두 번째 커밋">
+      <created>1664242632252</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664242632252</updated>
+    </task>
+    <task id="LOCAL-00005" summary="first 내용에 대한 수정 작업 진행중">
+      <created>1664243478365</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664243478365</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -62,6 +98,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="첫 번째 커밋" />
-    <option name="LAST_COMMIT_MESSAGE" value="첫 번째 커밋" />
+    <MESSAGE value="첫 번째 커밋 - 수정" />
+    <MESSAGE value="두 번째 커밋" />
+    <MESSAGE value="first 내용에 대한 수정 작업 진행중" />
+    <option name="LAST_COMMIT_MESSAGE" value="first 내용에 대한 수정 작업 진행중" />
   </component>
 </project>
